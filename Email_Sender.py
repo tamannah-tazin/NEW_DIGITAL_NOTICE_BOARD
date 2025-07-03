@@ -1,8 +1,7 @@
 
 
 SENDER_EMAIL = "tamannahtazin.cse@gmail.com"
-SENDER_PASSWORD = "ujdw xtdi xkpu yphy"  # Gmail app password (2FA থাকলে)
-
+SENDER_PASSWORD = "#### #### #### ####"  # Gmail app password (2FA থাকলে)
 RECEIVER_EMAILS = [
     "ce23004@mbstu.ac.bd"
 ]
